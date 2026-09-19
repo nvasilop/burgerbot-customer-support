@@ -1,6 +1,6 @@
 # BurgerBot — Dialogflow ES Customer Support Chatbot
 
-**Live Demo:** Try BurgerBot: https://burgerbot-customer-support-1.onrender.com 
+**Live Demo:** https://burgerbot-customer-support-1.onrender.com 
 
 BurgerBot is a simple customer support chatbot for a fictional burger restaurant.
 
