@@ -30,7 +30,7 @@ async def dialogflow_webhook(request: Request):
 
     # Dialogflow may send numbers; convert to string for lookup
     if order_number is not None:
-        order_number = str(order_number).strip()
+        order_number = str(int(order_number)).strip() 
 
     if not order_number:
         text = "Sorry, I need an order number to check the status."
