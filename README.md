@@ -3,7 +3,6 @@
 **Live Demo:** https://burgerbot-customer-support-1.onrender.com 
 
 BurgerBot is a simple customer support chatbot for a fictional burger restaurant.
-
 The goal of the project was to practice how a real conversational AI system works using Dialogflow ES, a small FastAPI backend, and manual QA testing.
 
 ## What the chatbot can do
